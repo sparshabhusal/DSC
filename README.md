@@ -1,2 +1,3 @@
-# DSC
-Discord Server Customization Tutorial
+<h1 align=center> ✨ Discord Server Customization Guide 💫 </h1>
+
+# Soon...
